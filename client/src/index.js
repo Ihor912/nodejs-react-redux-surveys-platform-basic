@@ -17,4 +17,5 @@ ReactDOM.render(
 );
 
 console.log('Stripe Key is: ', process.env.REACT_APP_STRIPE_KEY);
+console.log('Test var is: ', process.env.TEST_VAR);
 console.log('Env is: ', process.env.NODE_ENV);
